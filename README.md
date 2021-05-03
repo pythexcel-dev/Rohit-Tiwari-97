@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-Tiwari-97 MCA Graduate -2021
+- 👋 Hi, I’m @Rohit Tiwari MCA Graduate -2021
 - 👀 I’m interested in Data Analysis,Data Engineering,Data Visualization,Data Science,ML,AI.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
