@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit Tiwari MCA Graduate -2021
+- 👋 Hi, I’m @Rohit Tiwari MCA Graduate and 1 year of IT Experiance as Technical Buisness Analysis Engineer
 - 👀 I’m interested in Development, Data Analysis,Data Engineering,Data Visualization,Data Science,ML,AI.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
